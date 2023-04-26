@@ -1,7 +1,5 @@
-import React from "react"
+import React from 'react';
 
 export default function Navbar(): JSX.Element {
-  return (
-    <div></div>
-  )
+  return <div></div>;
 }
